@@ -1,3 +1,15 @@
+h2 { text-align: center;
+}
+h1{
+    text-align: center;
+}
 .bodyclass {
-    background: linear-gradient(rgba(0,0,50,0.5),rgba(0, 0, 50, 0.5)), url(https://img.anews.com/media/posts/images/20190827/115874201.jpg);
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255, 255, 255, 0.5)), url(https://img.anews.com/media/posts/images/20190827/115874201.jpg) center/cover no-repeat;
+    color:white;
+}
+.container{
+    width: 60%;
+    margin: 0px auto;
+    background-color:blue;
+    opacity: 0.5;
 }
