@@ -1,3 +1,3 @@
 .bodyclass {
-    background-image: url("https://pixabay.com/illustrations/color-triangle-geometric-textured-2174045/")
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0, 0, 50, 0.5)), url(https://img.anews.com/media/posts/images/20190827/115874201.jpg);
 }
